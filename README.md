@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1920" height="1016" alt="EX 4 1" src="https://github.com/user-attachments/assets/d047d02b-3a3e-40f1-8238-99c241c41f05" />
+
+<img width="1920" height="1016" alt="EX 4 2" src="https://github.com/user-attachments/assets/77b18fb9-2780-4fd5-a237-d608cddbfd42" />
+
+### Name:Manoj Kumar G
+### Register Number:212222230078
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
